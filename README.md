@@ -1,5 +1,5 @@
-Network Extended License
-========================
+Network Extended License Version 2.0
+====================================
 
 This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0 or higher, with the following additional responsibility (with the definitions given in the Mozilla Public License, Version 2.0):
 
